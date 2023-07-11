@@ -1,1 +1,3 @@
 sumFunc.py and tests.py are for the M05 programming assignment
+The test results show an "OK" which means the tests pass and the function works as intended. 
+Had they shown a FAIL, then either the function was set up wrong(sum 1,2,3 and get 5), or the value I was comparing against to test the function was wrong (Function correctly sums 1,2,3 but I was looking for 5).
